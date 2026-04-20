@@ -14,7 +14,7 @@
 
 我独立或带领团队开发过多款 AI 驱动产品，包括 Sparks 创意系统、AI Todo、Translator、以及本地化的 Chat 模拟器等；熟悉 Serverless 与 Vercel 云部署，能够从基础设施到前端产品实现端到端交付与优化。
 
-目前 apple store 上线产品 “###记住了么###”。
+目前 apple store 上线产品 “### 记住了么 ###”。
 
 ---
 
