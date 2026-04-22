@@ -10,22 +10,11 @@
 ## 🧑‍💻 个人简介 / Profile
 
 拥有 20 年以上互联网从业经验的技术管理者与软件工程师，长期专注于 Web 平台架构、广告系统研发与大型网站运维。  
-既精通传统 LAMP 技术栈（PHP、MySQL、Apache/Nginx），也在近几年深入践行现代全栈与 AI 驱动的开发实践（TypeScript、Next.js、Node.js、LangChain 等）。  
+既精通传统 LAMP 技术栈（PHP、MySQL、Apache/Nginx），也在近几年深入践行现代全栈与 AI 驱动的开发实践（TypeScript、Next.js、Node.js、LangChain 等），近 5 年来专注于 AI 研究与使用，常用 Claude code，Cursor 等工具进行开发。  
 
-我独立或带领团队开发过多款 AI 驱动产品，包括 Sparks 创意系统、AI Todo、Translator、以及本地化的 Chat 模拟器等；熟悉 Serverless 与 Vercel 云部署，能够从基础设施到前端产品实现端到端交付与优化。
+我独立或带领团队开发过多款 AI 驱动产品，包括 Sparks 创意系统、 MemoryAI，AI Todo、Translator、以及本地化的 Chat 模拟器等；熟悉 Serverless 与 Vercel，Railway 云部署，能够从基础设施到前端产品实现端到端交付与优化。
 
 目前 apple store 上线产品 “记住了么”。
-
----
-
-## 🎯 核心能力 / Summary
-
-- 全栈开发：TypeScript / Next.js / React / Node.js  
-- 后端与传统系统：PHP / Symfony / MySQL / Apache / Nginx  
-- AI 与自动化：OpenAI API / LangChain / 自研模型集成 / Prompt 工程  
-- 工程能力：Docker、Redis、消息队列（Bull）、Playwright 自动化测试  
-- 运维与架构：Linux 服务器管理、CDN、负载均衡、SSL、分库分表、高并发优化  
-- 团队与项目管理：敏捷 (Scrum)、跨部门协作、技术与产品对齐
 
 ---
 
@@ -60,31 +49,41 @@
 
 ---
 
-## 🔬 个人项目与 AI 研发（精选） / Selected Projects
+## 🎯 核心能力 / Core Skills
 
-- Sparks — 创意管理与协作平台  
-  技术：TypeScript、Next.js、Prisma、MongoDB；部署于 Vercel。支持 AI 生成与多用户协作流程。  
+- 全栈开发：TypeScript, Next.js, React, Node.js  
+- 后端与传统系统： GO，Python，PHP, Symfony, MySQL, Apache, Nginx  
+- 移动与桌面：Swift (SwiftUI, SwiftData),Harmony，AkTs，Tauri, iOS App 发布流程  
+- 人工智能：OpenAI API, LangChain, 自研模型集成, Prompt 工程  
+- 基础设施与运维：Docker, Redis, RabbitMQ, Bull Queue, Linux, Vercel, Serverless  
+- 工程与测试：Playwright 自动化测试, CI/CD, 监控与性能调优  
+- 数据与爬虫：Python, web scraping, 数据抓取与处理  
+- 团队与管理：敏捷 (Scrum), 技术组织建设, 跨团队协作
 
-- AI Todo（桌面以及 IOS 应用，已上架IOS： step to do）  
-  技术：Tauri + SQLite；本地化任务管理与 AI 驱动的任务拆解与建议。  
+---
 
-- Translator — AI 翻译工具  
-  技术：OpenAI 与 DeepSeek 模型集成；实现多语言实时翻译与上下文理解能力。  
+## 🔬 近两年精选项目 / Selected Recent Projects (last 2 years)
 
-- 本地 Chat 模拟器（ChatGPT 模拟）  
-  技术：Node.js、LangChain；支持自定义模型与对话记忆。  
+- MemoryAI / MemoryAI-API — 本地/云端记忆与助手服务；语言模型与长期记忆管理（主要用到 Swift / Python / LangChain）  
+- step-web / step-backend — iOS 应用 “记住了么” 的 Web 与后端服务（TypeScript, Next.js, Node.js）  
+- mingle / mingle-rabbitmq — 协作与消息处理系统，结合 RabbitMQ 做异步任务处理（TypeScript, Python）  
+- sparks-express — Sparks 创意管理平台后端服务（TypeScript, Next.js, Prisma, MongoDB）  
+- aihardwarehub & aihardwarehub-scraper — AI 硬件目录与爬虫��TypeScript / Python）  
+- Todooo / todolist — iOS 待办事项产品（SwiftUI, SwiftData, Tauri + SQLite for desktop variant）  ，后端 GO 语言
+- claude-gpt, chat-smart, ai-mate — 多种小型 AI 聊天/助手实现与集成实验（TypeScript / Node.js）  
 
-- AI 营销文案助手  
-  技术：OpenAI API；自动生成营销文案、推广计划并支持语气/风格定制。
+（更多项目请见我的仓库列表）
 
 ---
 
 ## 🧠 技术栈 / Tech Stack
 
-后端：PHP、Symfony、Node.js、MySQL  
-前端 / 全栈：TypeScript、Next.js、React、Tailwind CSS  
-AI & 自动化：OpenAI API、LangChain、Prompt 工程、Playwright、Bull Queue、Redis  
-运维：Linux、Docker、Vercel Serverless、CDN、负载均衡、SSL 管理
+后端：PHP (Symfony), Node.js, Python  
+前端 / 全栈：TypeScript, Next.js, React, Tailwind CSS  
+移动 / 桌面：Swift, SwiftUI, SwiftData, Tauri, SQLite  
+AI：OpenAI, LangChain, 自研模型集成, Prompt 工程  
+基础设施：Docker, Redis, RabbitMQ, Bull, Vercel, CDN, 负载均衡  
+测试 / 自动化：Playwright, CI/CD
 
 ---
 
