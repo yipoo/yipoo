@@ -107,5 +107,3 @@ AI & 自动化：OpenAI API、LangChain、Prompt 工程、Playwright、Bull Queu
 - 微博：[https://weibo.com/u/2684814901](https://weibo.com/u/2684814901)
 
 ---
-
-（本次润色基于你仓库中 2025 年的提交记录，对工作经历中 CTO / 创始人角色表述与整体格式进行了调整与优化。如需我替你将此 README 提交到仓库，请告诉我要用的分支名与提交说明，我可以生成提交草稿或直接协助推送。） 
