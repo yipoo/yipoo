@@ -1,5 +1,17 @@
 # 丁磊（Lei Ding）
 
+## English overview
+
+Software engineer and technical founder based in Beijing, China (UTC+8). My strongest areas are **Next.js / React, Vue, PHP, MySQL, PostgreSQL, MongoDB, and Docker deployment**.
+
+I build custom Agents and integrate them with existing business systems. My workflow uses **Codex, Claude Code, Cursor, DSH, and self-developed Agents** for implementation, debugging, testing, and review, with engineering judgment and verification throughout.
+
+Recent work includes enterprise Agent integration, custom Agents for manufacturing businesses, and a SwiftUI iPhone meeting-audio analysis app. Client names, internal code, and business data remain confidential. Public examples: [AI customer service](https://github.com/yipoo/customer-service) and [RAG services](https://github.com/yipoo/rag-services).
+
+Open to long-term remote development and clearly scoped paid projects or trials. Scope, acceptance criteria, availability, and fees can be aligned for each engagement.
+
+---
+
 📍 北京, 中国  
 📧 dinglei@liansuo.com  
 🌐 [微博](https://weibo.com/u/2684814901)  
